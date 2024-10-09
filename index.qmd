@@ -3,17 +3,28 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/RS72384_20220808-A7408974.jpg
 ---
 
-:::{#me}
+::: {#me}
+
+## Introduction
+
+My name is Talia Kuras, and I am a PhD student at the University of New Hampshire studying Saltmarsh Sparrow reproductive behavior and responses to habitat restoration. 
 
 ## Goals
 
+My research is oriented around the conservation of Saltmarsh Sparrows at key sites in New Hampshire and Southern Maine.
+
 ## Education
 
-## Experience
+I have a BS in Biology from the University of Massachusetts-Amherst, and a MS in Wildlife and Conservation Biology from UNH. 
 
+## Experience
+In addition to my educational experience, I have worked as a wildlife field technician for numerous entities across the Atlantic coast region!
 :::
 
 Thanks for checking out my web site!
+
+*This repo was initially generated from a Quarto template available here: https://github.com/jtr13/website-template.*
+
